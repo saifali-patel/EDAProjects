@@ -3,7 +3,7 @@ In this project, datasets were preprocessed and merged to calculate needed measu
 These two datasets were merged to see if there is any relationship between the spread of the virus in a country and how happy people are, living in that country.
 
 
-[Click here to see the Jupyter Notebook](https://github.com/saifali-patel/COVID19-Data-Analysis-Using-Python/blob/master/covid19%20data%20analysis%20notebook.ipynb)
+[Click here to see the Jupyter Notebook](https://github.com/saifali-patel/DataScience/blob/main/COVID19-Data-Analysis-Using-Python/covid19%20data%20analysis%20notebook.ipynb)
 
 *This project was done as part of the completion of the guided project course COVID19-Data-Analysis-Using-Python course on Coursera*
 
