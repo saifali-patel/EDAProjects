@@ -3,6 +3,6 @@ Same names can be spelled out in a many ways (for example, Marc and Mark, or Eli
 
 First, using fuzzy (sound) name matching, you will search for author names in a dataset provided by the US Social Security Administration that contains names and genders of all individuals who have applied for Social Security Cards. Next, we'll aggregate the author dataset by including gender. Finally, we will use the new dataset to plot the gender distribution of children's picture books authors over time.
 
-This project utlizes *pandas DataFrames*, *NumPy* for basic statistics, and *Matplotlib* for plotting.
+This project utilizes *pandas DataFrames*, *NumPy* for basic statistics, and *Matplotlib* for plotting.
 
 [Click here to view the notebook](https://github.com/saifali-patel/DataScience/blob/main/Name%20Game:%20Gender%20Prediction%20using%20Sound/notebook.ipynb)
