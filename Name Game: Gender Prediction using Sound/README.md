@@ -5,4 +5,4 @@ First, using fuzzy (sound) name matching, you will search for author names in a 
 
 To complete this project, you should be familiar with *pandas DataFrames*, *NumPy* for basic statistics, and *Matplotlib* for plotting.
 
-[Click here to view the notebook]()
+[Click here to view the notebook](https://github.com/saifali-patel/DataScience/blob/main/Name%20Game:%20Gender%20Prediction%20using%20Sound/notebook.ipynb)
