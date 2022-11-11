@@ -1,4 +1,4 @@
-# DataScience
+# Exploring Data !
 This repository contains all <em>DataScience Projects</em> that I have attempted.
 
 ### 1. [Name Game: Gender Prediction using Sound](https://github.com/saifali-patel/DataScience/blob/main/Name%20Game:%20Gender%20Prediction%20using%20Sound/README.md)
